@@ -36,7 +36,10 @@
   width: 90px;
 }
 
-@media (max-width: 1367px) {
+@media (max-width: 1366px) {
+  .section-time-item {
+    margin-bottom: 5px;
+  }
   .date-area {
     left: -23px;
     top: 9px;
@@ -123,11 +126,18 @@
     width: 100%;
     display: block;
     overflow: hidden;
+    text-align: left;
   }
   .job-image {
-    width: 100vw;
-    margin-left: -18vw;
+    width: 40vw;
+    margin-left: 0;
     vertical-align: unset;
+  }
+}
+
+@media (max-width: 768px) {
+  .job-image {
+    width: 70vw;
   }
 }
 

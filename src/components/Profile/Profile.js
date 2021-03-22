@@ -28,7 +28,7 @@ class Profile extends Component {
             <div className="profile-description">
               <p>
                 Bachelor in Computer Science @ State University of Londrina
-                (UEL). Currently, working as a Product Designer at Mystra
+                (UEL). Currently working as a Product Designer at Mystra
                 Technologies.
               </p>
             </div>
@@ -50,7 +50,7 @@ class Profile extends Component {
               </a>
               <a
                 className="icon-link"
-                href="https://www.linkedin.com/in/rodrigo-kuerten-02a311125/"
+                href="https://www.linkedin.com/in/rodrigo-kuerten/"
               >
                 <img src={linkedin} alt="Linkedin" />
               </a>
