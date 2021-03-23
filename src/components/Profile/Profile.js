@@ -39,6 +39,8 @@ class Profile extends Component {
               <a
                 className="icon-link"
                 href="https://www.dmsguild.com/browse.php?author=Rodrigo%20Kuerten"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={dmsguild} alt="DMs Guild" />
               </a>
@@ -46,6 +48,7 @@ class Profile extends Component {
                 className="icon-link"
                 href="mailto:rodkue@gmail.com"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={mail} alt="E-mail" />
               </a>
@@ -53,6 +56,7 @@ class Profile extends Component {
                 className="icon-link"
                 href="https://github.com/RKuerten"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={github} alt="Github" />
               </a>
@@ -60,6 +64,7 @@ class Profile extends Component {
                 className="icon-link"
                 href="https://www.linkedin.com/in/rodrigo-kuerten/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={linkedin} alt="Linkedin" />
               </a>
@@ -67,6 +72,7 @@ class Profile extends Component {
                 className="icon-link"
                 href="https://t.me/RodrigoKuerten"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={telegram} alt="Telegram" />
               </a>
@@ -74,6 +80,7 @@ class Profile extends Component {
                 className="icon-link"
                 href="https://twitter.com/R_Kuerten"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <img src={twitter} alt="Twitter" />
               </a>
