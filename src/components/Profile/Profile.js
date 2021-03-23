@@ -42,22 +42,39 @@ class Profile extends Component {
               >
                 <img src={dmsguild} alt="DMs Guild" />
               </a>
-              <a className="icon-link" href="mailto:rodkue@gmail.com">
+              <a
+                className="icon-link"
+                href="mailto:rodkue@gmail.com"
+                target="_blank"
+              >
                 <img src={mail} alt="E-mail" />
               </a>
-              <a className="icon-link" href="https://github.com/RKuerten">
+              <a
+                className="icon-link"
+                href="https://github.com/RKuerten"
+                target="_blank"
+              >
                 <img src={github} alt="Github" />
               </a>
               <a
                 className="icon-link"
                 href="https://www.linkedin.com/in/rodrigo-kuerten/"
+                target="_blank"
               >
                 <img src={linkedin} alt="Linkedin" />
               </a>
-              <a className="icon-link" href="https://t.me/RodrigoKuerten">
+              <a
+                className="icon-link"
+                href="https://t.me/RodrigoKuerten"
+                target="_blank"
+              >
                 <img src={telegram} alt="Telegram" />
               </a>
-              <a className="icon-link" href="https://twitter.com/R_Kuerten">
+              <a
+                className="icon-link"
+                href="https://twitter.com/R_Kuerten"
+                target="_blank"
+              >
                 <img src={twitter} alt="Twitter" />
               </a>
             </div>
