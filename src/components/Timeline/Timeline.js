@@ -23,7 +23,7 @@ class Timeline extends Component {
           title: "The Stormcaller",
           desc:
             "The Stormcaller presents a brand new Ranger archetype for your Eberron campaigns! It also includes four new spells themed around the dangerous Thunder Sea.",
-          tags: ["D&D 5E", "EBERRON", "SUBCLASS", "MAGIC ITEMS"],
+          tags: ["D&D 5E", "EBERRON", "SUBCLASS", "SPELLS"],
           image: stormcaller,
           link: "https://www.dmsguild.com/product/326206/The-Stormcaller",
           type: "Content tags:",
