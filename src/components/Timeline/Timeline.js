@@ -168,7 +168,7 @@ class Timeline extends Component {
   constructor() {
     super();
     this.state = {
-      type: "rpg",
+      type: "ux",
     };
     this.handleChange = this.handleChange.bind(this);
   }
@@ -189,8 +189,8 @@ class Timeline extends Component {
         </p>
         <label>Job type:</label>
         <select value={type} onChange={this.handleChange}>
-          <option value="rpg">TTRPG Design &amp; Writing</option>
           <option value="ux">UX/UI Design</option>
+          <option value="rpg">TTRPG Design &amp; Writing</option>
         </select>
         <ul>
           {jobs.map((item, index) => (
