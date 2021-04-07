@@ -28,7 +28,7 @@
 
 .date-show {
   margin: -20px 0;
-  color: rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.85);
   font-style: italic;
   font-size: 14px;
   text-align: right;
@@ -82,13 +82,20 @@
 }
 
 .job-title {
+  color: #000;
+  text-decoration: none;
   margin: 8px 0;
   font-weight: normal;
   letter-spacing: 1px;
   font-size: 1.8em;
 }
 
+.job-title:hover {
+  text-decoration: underline;
+}
+
 .job-subtitle {
+  font-weight: 500;
   margin: 0;
 }
 

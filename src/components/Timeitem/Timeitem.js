@@ -3,7 +3,7 @@ import "./Timeitem.css";
 
 class Timeitem extends Component {
   render() {
-    let { date, title, description, type, tags, image } = this.props;
+    let { date, title, description, type, tags, image, link } = this.props;
 
     return (
       <li className="section-time-item">
@@ -13,7 +13,14 @@ class Timeitem extends Component {
         <div className="job-area">
           <div className="job-holder">
             <div className="job-info">
-              <h2 className="job-title">{title}</h2>
+              <a
+                className="job-title"
+                href={link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {title}
+              </a>
               <h5 className="job-subtitle">{description}</h5>
               <div className="job-tags-holder">
                 <p className="job-tags-title">{type}</p>
