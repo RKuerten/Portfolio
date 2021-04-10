@@ -13,6 +13,9 @@ import warforged from "./jobImages/warforged.png";
 import gravenhollow from "./jobImages/gravenhollow.png";
 import stormcaller from "./jobImages/stormcaller.png";
 
+import fkgroup from "./jobImages/FKG.png";
+import goldenbelle from "./jobImages/GB.png";
+import hellpi from "./jobImages/Hellpi.png";
 import portfolio from "./jobImages/portfolio.png";
 
 const rpgJobs = [
@@ -160,6 +163,36 @@ const uxJobs = [
     tags: ["REACT", "CSS", "JAVASCRIPT", "NETLIFY"],
     image: portfolio,
     link: "https://rodrigokuerten.com.br",
+    type: "Technologies used:",
+  },
+  {
+    date: "JUN/2020",
+    title: "Hellpi",
+    desc:
+      "I worked as the Lead UX Designer and Front-End Developer for the Hellpi application: a stack composed of two mobile apps (made with React Native), one for the clients, other for the professionals; an admin panel made with React.js, and the back-end; powered by Spring Framework (Java). Hellpi is a platform that aims to facilitate the hiring of service providers to solve problems and improve people's daily lives.",
+    tags: ["FIGMA", "UI DESIGN", "REACT NATIVE", "REACT", "SPRING FRAMEWORK"],
+    image: hellpi,
+    link: "https://play.google.com/store/apps/developer?id=Hellpi+Tecnologia+Ltda",
+    type: "Technologies used:",
+  },
+  {
+    date: "MAR/2020",
+    title: "GoldenBelle",
+    desc:
+      "I worked as the Assistant UI Designer and Front-End Developer for the GoldenBelle project: a payment application for the jewelry store GoldenBelle. It is made of three parts: a mobile application made with React Native, an admin panel made with React.js, and the back-end; powered by Spring Framework (Java).",
+    tags: ["FIGMA", "UI DESIGN", "REACT NATIVE", "REACT", "SPRING FRAMEWORK"],
+    image: goldenbelle,
+    link: "https://www.goldenbelle.com.br/",
+    type: "Technologies used:",
+  },
+  {
+    date: "OCT/2018",
+    title: "F&K Group - Website",
+    desc:
+      "I worked with TI departament to launch a new website for F&K Group. Highlights of the job included choosing a suitable theme and color palette for the company logo and exercise my UX writing skills. Done with Wordpress. Currently, this version of the website is no longer available, but can be accessed through Web Archive.",
+    tags: ["WORDPRESS", "CSS"],
+    image: fkgroup,
+    link: "http://web.archive.org/web/20181118043134/http://fkgroup.com.br/",
     type: "Technologies used:",
   },
 ];
