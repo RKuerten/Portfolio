@@ -189,7 +189,7 @@ const uxJobs = [
     date: "OCT/2018",
     title: "F&K Group - Website",
     desc:
-      "I worked with TI departament to launch a new website for F&K Group. Highlights of the job included choosing a suitable theme and color palette for the company logo and exercise my UX writing skills. Done with Wordpress. Currently, this version of the website is no longer available, but can be accessed through Web Archive.",
+      "I worked as a freelance with F&K Group's TI departament to launch a new website for F&K Group. Highlights of the job included choosing a suitable theme and color palette for the company logo and exercise my UX writing skills. Done with Wordpress. Currently, this version of the website is no longer available, but can be accessed through Web Archive.",
     tags: ["WORDPRESS", "CSS"],
     image: fkgroup,
     link: "http://web.archive.org/web/20181118043134/http://fkgroup.com.br/",
