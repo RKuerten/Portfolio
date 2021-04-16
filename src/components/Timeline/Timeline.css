@@ -36,3 +36,10 @@
     margin: 10px 5px 20px 0;
   }
 }
+
+@media (min-width: 1367px) and (max-width: 1456px) {
+  .section-timeline {
+    float: right;
+    padding: 16px;
+  }
+}
