@@ -20,7 +20,7 @@ class Profile extends Component {
                 <img src={eu} alt="Page Author" />
               </figure>
               <h1>RODRIGO KUERTEN</h1>
-              <p>PRODUCT DESIGNER @ MYSTRA</p>
+              <p>UX/FRONT-END @ LETS COMUNICA</p>
               <p>TTRPG DESIGNER</p>
             </div>
           </div>
@@ -28,8 +28,8 @@ class Profile extends Component {
             <div className="profile-description">
               <p>
                 Bachelor in Computer Science @ State University of Londrina
-                (UEL). Currently working as a Product Designer at Mystra
-                Technologies.
+                (UEL). Currently working as an UX and Front-End Developer at
+                Lets Comunica.
               </p>
             </div>
           </div>
