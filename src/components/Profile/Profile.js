@@ -28,8 +28,8 @@ class Profile extends Component {
             <div className="profile-description">
               <p>
                 Bachelor in Computer Science @ State University of Londrina
-                (UEL). Currently working as an UX and Front-End Developer at
-                Lets Comunica.
+                (UEL). Currently working as an UX Analyst at
+                IST TIC SENAI Londrina.
               </p>
             </div>
           </div>
