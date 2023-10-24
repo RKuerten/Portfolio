@@ -20,7 +20,7 @@ class Profile extends Component {
                 <img src={eu} alt="Page Author" />
               </figure>
               <h1>RODRIGO KUERTEN</h1>
-              <p>UX/FRONT-END @ LETS COMUNICA</p>
+              <p>UX ANALYST @ IST TIC SENAI LONDRINA</p>
               <p>TTRPG DESIGNER</p>
             </div>
           </div>
