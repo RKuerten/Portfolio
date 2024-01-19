@@ -28,7 +28,6 @@ hoverChangeExperience(
   "IST SENAI Londrina",
   "Dez 2021 - Jan 2024 (2 anos e 2 meses)"
 );
-
 hoverChangeExperience(
   ".lets",
   `Na LET'S (uma fábrica de software e marketing digital), atuei como dev híbrido de UX/Front-End, fazendo o design e criação do fluxo de aplicações de web/mobile (com protótipos no Figma), e programando os front-end com React (web) ou React Native (mobile).`,
@@ -36,7 +35,6 @@ hoverChangeExperience(
   "LET'S Comunicação e Desenvolvimento",
   "Jun 2021 - Nov 2021 (5 meses)"
 );
-
 hoverChangeExperience(
   ".mystra",
   `Na Mystra (uma fábrica de software), atuei como Product Designer, trabalhando o design e criação do fluxo de aplicações web/mobile (com protótipos no Figma e entrevistas de usuários), e programação front-end em React (web) ou React Native (mobile), com algumas ocasiões de desenvolvimento back-end também, com Spring Framework (Java).`,
@@ -44,7 +42,6 @@ hoverChangeExperience(
   "Mystra Tecnologia",
   "Jan 2020 - Jun 2021 (1 ano e 6 meses)"
 );
-
 hoverChangeExperience(
   ".veltec",
   `Na Veltec, uma empresa de telemetria de frotas, tive oportunidade de realizar estágio em duas áreas diferentes: de abril até dezembro de 2018, atuei no setor de Data Science, fazendo entregas de análise de movimentação de frota (com Python e SQL), estruturação de dados internos, e criação de visualizações web (com JS). Já de janeiro até outubro de 2019, atuei no setor de UX, onde fiz wireframes, protótipos de baixa e alta-fidelidade com papel/Figma, testes de usabilidade, entrevistas com usuários, definição de escopo e detalhamento de estórias de desenvolvimento.`,
@@ -52,7 +49,6 @@ hoverChangeExperience(
   "Veltec",
   "Abr 2018 - Out 2019 (1 ano e 6 meses)"
 );
-
 hoverChangeExperience(
   ".r2chopp",
   `Na R2 Choperia, trabalhei informalmente de maneira esporádica como barman, geralmente aos fins de semana e períodos de férias do ano letivo (do ensino médio ou da faculdade). O trabalho de barman correspondia a: organização do espaço de trabalho, limpeza de copos e utensílios do estabelecimento, preparação de drinks.`,
