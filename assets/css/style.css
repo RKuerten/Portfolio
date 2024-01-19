@@ -822,11 +822,9 @@ header .grid-layout nav .nav-list li a:hover {
 }
 #s-skills .grid-layout #skills #skills-text .changeDescription {
   transition: 2s all ease;
-}
-@media screen and (max-width: 768px) {
-  #s-skills .grid-layout #skills #skills-text .changeDescription {
+  /* @include responsive-mobile {
     display: none;
-  }
+  } */
 }
 #s-skills .grid-layout #skills #skills-text p {
   max-width: 500px;

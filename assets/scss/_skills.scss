@@ -41,9 +41,9 @@
         .changeDescription {
           transition: 2s all ease;
 
-          @include responsive-mobile {
+          /* @include responsive-mobile {
             display: none;
-          }
+          } */
         }
 
         p {
