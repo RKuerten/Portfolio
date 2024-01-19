@@ -14,7 +14,7 @@ footer {
 
   p {
     font-size: 1.8rem;
-    
+
     a {
       font-weight: 500;
       color: $color-main;
@@ -22,6 +22,8 @@ footer {
   }
 
   img {
+    aspect-ratio: 1/1;
+    border-radius: 50%;
     width: 32px;
   }
 

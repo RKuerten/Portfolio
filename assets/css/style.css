@@ -889,6 +889,8 @@ footer p a {
   color: #FCA311;
 }
 footer img {
+  aspect-ratio: 1/1;
+  border-radius: 50%;
   width: 32px;
 }
 footer div {
