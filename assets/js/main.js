@@ -24,7 +24,7 @@ hoverChangeExperience(
     id="palestra"
     >link p/ gravação de uma palestra online realizada em out/2022</a
   >). Também fiz vetorização de logos e criação de assets visuais,
-  como banners, cartazes, e identidade visual de eventos internos
+  como banners, cartazes e identidade visual de eventos internos
   da empresa.`,
   "Analista de UX/UI",
   "IST SENAI Londrina",
@@ -32,21 +32,21 @@ hoverChangeExperience(
 );
 hoverChangeExperience(
   ".lets",
-  `Na LET'S (uma fábrica de software e marketing digital), atuei como dev híbrido de UX/Front-End, fazendo o design e criação do fluxo de aplicações de web/mobile (com protótipos no Figma), e programando os front-end com React (web) ou React Native (mobile).`,
+  `Na LET'S (uma fábrica de software e marketing digital), atuei como dev híbrido de UX/Front-End, fazendo o design e criação do fluxo de aplicações de web/mobile (com protótipos no Figma) e programando os front-end com React (web) ou React Native (mobile).`,
   "UX/Front-End Developer",
   "LET'S Comunicação e Desenvolvimento",
   "Jun 2021 - Nov 2021 (5 meses)"
 );
 hoverChangeExperience(
   ".mystra",
-  `Na Mystra (uma fábrica de software), atuei como Product Designer, trabalhando o design e criação do fluxo de aplicações web/mobile (com protótipos no Figma e entrevistas de usuários), e programação front-end em React (web) ou React Native (mobile), com algumas ocasiões de desenvolvimento back-end também, com Spring Framework (Java).`,
+  `Na Mystra (uma fábrica de software), atuei como Product Designer, trabalhando o design e criação do fluxo de aplicações web/mobile (com protótipos no Figma e entrevistas de usuários) e programação front-end em React (web) ou React Native (mobile), com algumas ocasiões de desenvolvimento back-end também, com Spring Framework (Java).`,
   "Product Designer",
   "Mystra Tecnologia",
   "Jan 2020 - Jun 2021 (1 ano e 6 meses)"
 );
 hoverChangeExperience(
   ".veltec",
-  `Na Veltec, uma empresa de telemetria de frotas, tive oportunidade de realizar estágio em duas áreas diferentes: de abril até dezembro de 2018, atuei no setor de Data Science, fazendo entregas de análise de movimentação de frota (com Python e SQL), estruturação de dados internos, e criação de visualizações web (com JS). Já de janeiro até outubro de 2019, atuei no setor de UX, onde fiz wireframes, protótipos de baixa e alta-fidelidade com papel/Figma, testes de usabilidade, entrevistas com usuários, definição de escopo e detalhamento de estórias de desenvolvimento.`,
+  `Na Veltec, uma empresa de telemetria de frotas, tive oportunidade de realizar estágio em duas áreas diferentes: de abril até dezembro de 2018, atuei no setor de Data Science, fazendo entregas de análise de movimentação de frota (com Python e SQL), estruturação de dados internos e criação de visualizações web (com JS). Já de janeiro até outubro de 2019, atuei no setor de UX, onde fiz wireframes, protótipos de baixa e alta-fidelidade com papel/Figma, testes de usabilidade, entrevistas com usuários, definição de escopo e detalhamento de estórias de desenvolvimento.`,
   "Estagiário",
   "Veltec",
   "Abr 2018 - Out 2019 (1 ano e 6 meses)"
@@ -61,7 +61,7 @@ hoverChangeExperience(
 
 hoverChangeDescription(
   ".figma",
-  "Figma é uma ferramenta online, gratuita, e colaborativa para edição gráfica de vetores e prototipagem de projetos de design."
+  "Figma é uma ferramenta online, gratuita e colaborativa para edição gráfica de vetores e prototipagem de projetos de design."
 );
 hoverChangeDescription(
   ".canva",
@@ -69,7 +69,7 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".homebrewery",
-  "Homebrewery é uma ferramenta online de design de layouts (por meio de HTML, CSS, e Markdown) focada na criação de produtos de RPG de mesa."
+  "Homebrewery é uma ferramenta online de design de layouts (por meio de HTML, CSS e Markdown) focada na criação de produtos de RPG de mesa."
 );
 hoverChangeDescription(
   ".photoshop",
