@@ -105,14 +105,16 @@
               flex-wrap: wrap;
             }
 
-            a {
+            li {
               background-color: $bg-main;
               border: 2px solid $bg-border;
               border-radius: 6px;
-              padding: $gap-2;
+              max-height: 68px;
 
-              li {
-                height: 32px;
+              a {
+                display: block;
+                max-height: 68px;
+                padding: $gap-2;
               }
 
               @include responsive-desktop {

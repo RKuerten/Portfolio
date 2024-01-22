@@ -411,21 +411,23 @@ header .grid-layout nav .nav-list li a:hover {
     flex-wrap: wrap;
   }
 }
-#s-about .grid-layout > div div:nth-child(2) nav ul a {
+#s-about .grid-layout > div div:nth-child(2) nav ul li {
   background-color: #111111;
   border: 2px solid #1f1f1f;
   border-radius: 6px;
+  max-height: 68px;
+}
+#s-about .grid-layout > div div:nth-child(2) nav ul li a {
+  display: block;
+  max-height: 68px;
   padding: 16px;
 }
-#s-about .grid-layout > div div:nth-child(2) nav ul a li {
-  height: 32px;
-}
 @media screen and (max-width: 1200px) {
-  #s-about .grid-layout > div div:nth-child(2) nav ul a img {
+  #s-about .grid-layout > div div:nth-child(2) nav ul li img {
     width: 40px;
   }
 }
-#s-about .grid-layout > div div:nth-child(2) nav ul a:hover {
+#s-about .grid-layout > div div:nth-child(2) nav ul li:hover {
   border-color: #FCA311;
 }
 
