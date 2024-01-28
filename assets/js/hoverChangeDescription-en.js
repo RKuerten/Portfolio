@@ -10,9 +10,9 @@ export function hoverChangeDescription(nameCard, text) {
 
   document.querySelector(nameCard).addEventListener("mouseout", () => {
     if (isMobile) {
-      changeDescription.innerHTML = `Below are some of the tools I'm proficient in! Click on the cards to see each one!`;
+      changeDescription.innerHTML = `Below are some of the tools I'm proficient with! Click on the cards to see each one!`;
     } else {
-      changeDescription.innerHTML = `On the right are some of the tools I'm proficient in! Hover your mouse cursor over the card to see each one!`;
+      changeDescription.innerHTML = `On the right are some of the tools I'm proficient with! Hover your mouse cursor over the card to see each one!`;
     }
   });
 }
