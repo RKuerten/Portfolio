@@ -11,6 +11,14 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
+  ".acai",
+  `As the UX leader of the IT team at Grupo The Best, I worked on UX and UI improvements of apps like Clube The Best and the Franchisee Dashboard, 
+  but also worked on new products, like the Self-service Kiosk. I conducted usability tests and interviews, in addition to providing technical support for front-end developers.`,
+  "UX/UI Designer",
+  "Grupo The Best",
+  "Apr 2024 - Aug 2025 (1 year & 5 months)"
+);
+hoverChangeExperience(
   ".ist",
   `As the UX leader of the IT team at IST Londrina, I did UX & UI design (with high-fidelity prototypes, with or without navigation via Figma), usability tests (online via MS Teams), user interviews, creation of interface flows (with use cases), scope definition of projects, and UX lectures and workshops (<a href="https://www.youtube.com/watch?v=O8p4LZabuf0&t=81s" rel="noopener" target="_blank" id="lecture">link of an online lecture recorded and held in Oct/2022</a>). I also vectorized logos and created visual assets, such as banners, posters, and visual identity for internal company events.`,
   "UX/UI Analyst",

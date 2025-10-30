@@ -25,6 +25,14 @@
       flex-wrap: wrap;
       text-align: left;
 
+      .clube {
+        border: 1px solid #E49F30;
+
+        &:hover {
+          border: 1px solid #E49F30;
+        }
+      }
+
       .learn {
         border: 1px solid #00ffd1;
 
@@ -46,14 +54,6 @@
 
         &:hover {
           border: 1px solid #00AEEF;
-        }
-      }
-
-      .kolabe {
-        border: 1px solid #FFF;
-
-        &:hover {
-          border: 1px solid #FFF;
         }
       }
 

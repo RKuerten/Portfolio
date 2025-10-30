@@ -11,13 +11,24 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
+  ".acai",
+  `Como líder de UX do time de TI do Grupo The Best, eu atuei em melhorias de 
+  UX e UI dos produtos da empresa, como o Clube The Best e o Dashboard do Franqueado, 
+  além da elaboração de novos produtos, como o Totem de Auto Atendimento. Realizei testes 
+  de usabilidade e entrevistas, além de dar apoio técnico para os desenvolvedores front-end.`,
+  "UX/UI Designer",
+  "Grupo The Best",
+  "Abr 2024 - Ago 2025 (1 ano e 5 meses)"
+);
+hoverChangeExperience(
   ".ist",
   `Como líder de UX do time de TI do IST Londrina, eu fiz UX & UI
   design (com protótipos de alta-fidelidade, com ou sem navegação
   via Figma), testes de usabilidade (online via MS Teams),
   entrevistas com usuários, criação de fluxo de interface (com
-  casos de uso), definição de escopo de projetos, palestras e
-  oficinas de UX (<a
+  casos de uso) e definição de escopo de projetos diversos, para aplicações
+  mobile, web e VR. Também dei palestras e oficinas de UX 
+  (<a
     href="https://www.youtube.com/watch?v=O8p4LZabuf0&t=81s"
     rel="noopener"
     target="_blank"

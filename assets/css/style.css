@@ -5,6 +5,11 @@
   font-family: "Poppins", sans-serif;
 }
 
+::-moz-selection {
+  background-color: #B16E02;
+  color: #ffffff;
+}
+
 ::selection {
   background-color: #B16E02;
   color: #ffffff;
@@ -276,7 +281,8 @@ header .grid-layout nav .nav-list li a:hover {
   border: 2px solid #FCA311;
   background: #191000;
   color: #ffffff;
-  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
   padding: 20px 32px;
   max-width: 250px;
   border-radius: 4px;
@@ -564,6 +570,12 @@ header .grid-layout nav .nav-list li a:hover {
   flex-wrap: wrap;
   text-align: left;
 }
+#s-projects .grid-layout #projects .clube {
+  border: 1px solid #E49F30;
+}
+#s-projects .grid-layout #projects .clube:hover {
+  border: 1px solid #E49F30;
+}
 #s-projects .grid-layout #projects .learn {
   border: 1px solid #00ffd1;
 }
@@ -581,12 +593,6 @@ header .grid-layout nav .nav-list li a:hover {
 }
 #s-projects .grid-layout #projects .lgpd:hover {
   border: 1px solid #00AEEF;
-}
-#s-projects .grid-layout #projects .kolabe {
-  border: 1px solid #FFF;
-}
-#s-projects .grid-layout #projects .kolabe:hover {
-  border: 1px solid #FFF;
 }
 #s-projects .grid-layout #projects .hellpi {
   border: 1px solid #F1690E;
@@ -929,6 +935,4 @@ footer div {
 .grid-layout {
   max-width: 1140px;
   margin: 0 auto;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
