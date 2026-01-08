@@ -588,10 +588,10 @@ header .grid-layout nav .nav-list li a:hover {
 #s-projects .grid-layout #projects .trucks:hover {
   border: 1px solid #EA526F;
 }
-#s-projects .grid-layout #projects .lgpd {
+#s-projects .grid-layout #projects .artisan {
   border: 1px solid #00AEEF;
 }
-#s-projects .grid-layout #projects .lgpd:hover {
+#s-projects .grid-layout #projects .artisan:hover {
   border: 1px solid #00AEEF;
 }
 #s-projects .grid-layout #projects .hellpi {
@@ -654,10 +654,10 @@ header .grid-layout nav .nav-list li a:hover {
 #s-projects .grid-layout #trucks::after {
   background: linear-gradient(270deg, #EA526F 0%, #17161d 100%);
 }
-#s-projects .grid-layout #lgpd {
+#s-projects .grid-layout #artisan {
   color: #00AEEF;
 }
-#s-projects .grid-layout #lgpd::after {
+#s-projects .grid-layout #artisan::after {
   background: linear-gradient(270deg, #00AEEF 0%, #17161d 100%);
 }
 #s-projects .grid-layout #kolabe {
